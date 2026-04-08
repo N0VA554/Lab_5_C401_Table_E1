@@ -1,0 +1,5 @@
+.DS_Store
+*.DS_Store
+
+# Optional: ignore macOS metadata in nested folders
+**/.DS_Store
