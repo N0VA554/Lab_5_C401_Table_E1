@@ -1,0 +1,139 @@
+[
+  {
+    "url": "http://student-portfolio.teky.vn/student-portfolios/hocsinhA",
+    "crawled_at": "2026-04-09T05:25:00.000000",
+    "student": {
+      "name": "Học sinh A",
+      "course": "Lập trình Python",
+      "module": "Toàn khóa"
+    },
+    "lessons": [
+      {
+        "lesson_number": 1,
+        "title": "Buổi 1 - Làm quen với Python",
+        "criteria_table": [
+          {"group": "Kiến thức", "criteria": "Bài tập về nhà", "comment": "Bạn chưa thực hiện bài tập về nhà."},
+          {"group": "Kiến thức", "criteria": "Kiến thức cũ", "comment": "Bạn gần như không nhớ rõ kiến thức cũ, cần giáo viên nhắc lại và hỗ trợ nhiều."},
+          {"group": "Kiến thức", "criteria": "Kiến thức mới", "comment": "Bạn hoàn thiện dưới 50% các nhiệm vụ kiến thức. Cần cố gắng hơn!"},
+          {"group": "Kĩ Năng", "criteria": "Tư duy phản biện (Critical Thinking)", "comment": "Bạn còn rụt rè trong việc đưa ra quan điểm cá nhân."},
+          {"group": "Kĩ Năng", "criteria": "Hợp tác nhóm (Collaboration)", "comment": "Bạn chưa sẵn sàng tham gia hoạt động nhóm."},
+          {"group": "Kĩ Năng", "criteria": "Sáng tạo (Creativity)", "comment": "Bạn hoàn thiện nhiệm vụ theo mẫu của giáo viên."},
+          {"group": "Kĩ Năng", "criteria": "Chia sẻ ý tưởng (Communication)", "comment": "Bạn chưa thể trình bày rõ ràng ý tưởng của mình. Cần rèn luyện thêm."},
+          {"group": "Sản phẩm", "criteria": "Ý tưởng dự án/sản phẩm", "comment": "Dự án không thể hiện được vấn đề/chủ đề cụ thể cần hướng đến."},
+          {"group": "Sản phẩm", "criteria": "Kiến thức", "comment": "Dự án chưa hoàn thiện hoặc chưa chạy được. Dự án đạt được 30% kiến thức của bài học."},
+          {"group": "Sản phẩm", "criteria": "Tính hoàn thiện", "comment": "Dự án không có bất kỳ thông tin nào."},
+          {"group": "Sản phẩm", "criteria": "Thiết kế", "comment": "Dự án chưa hoàn thành hoặc chưa thể hiện được ý tưởng."},
+          {"group": "Thái độ học tập", "criteria": "Đúng giờ", "comment": "Bạn cần chú ý đi học đúng giờ hơn."},
+          {"group": "Thái độ học tập", "criteria": "Mức độ tập trung", "comment": "Bạn còn hay làm việc riêng trong giờ."},
+          {"group": "Thái độ học tập", "criteria": "Tham gia hoạt động", "comment": "Bạn ít tương tác trong các hoạt động chung."},
+          {"group": "Thái độ học tập", "criteria": "Thái độ", "comment": "Bạn còn ngại giao tiếp với thầy cô."}
+        ]
+      },
+      {
+        "lesson_number": 2,
+        "title": "Buổi 2 - Vòng lặp và Điều kiện",
+        "criteria_table": [
+          {"group": "Kiến thức", "criteria": "Bài tập về nhà", "comment": "Bạn đã thực hiện các bài tập nhưng độ chính xác <50%."},
+          {"group": "Kiến thức", "criteria": "Kiến thức cũ", "comment": "Bạn nhớ được hầu hết kiến thức cũ, đôi khi còn quên một số nội dung và cần giáo viên nhắc lại."},
+          {"group": "Kiến thức", "criteria": "Kiến thức mới", "comment": "Bạn tiếp thu kiến thức khá tốt, hoàn thành dưới 70% thử thách thuộc phần kiến thức mới trong bài."},
+          {"group": "Kĩ Năng", "criteria": "Tư duy phản biện (Critical Thinking)", "comment": "Bạn có trao đổi, phát biểu ý kiến nhưng chưa đúng trọng tâm bài học."},
+          {"group": "Kĩ Năng", "criteria": "Hợp tác nhóm (Collaboration)", "comment": "Bạn tham gia hoạt động nhóm nhưng chưa tích cực."},
+          {"group": "Kĩ Năng", "criteria": "Sáng tạo (Creativity)", "comment": "Bạn có ý tưởng mới nhưng những ý tưởng này ít liên quan đến vấn đề đặt ra."},
+          {"group": "Kĩ Năng", "criteria": "Chia sẻ ý tưởng (Communication)", "comment": "Bạn trình bày được ý tưởng, nhưng chưa trôi chảy."},
+          {"group": "Sản phẩm", "criteria": "Ý tưởng dự án/sản phẩm", "comment": "Dự án thể hiện được 1 phần chủ đề/vấn đề của bài học. Dự án có sự dụng một số ý tưởng từ sản phẩm khác."},
+          {"group": "Sản phẩm", "criteria": "Kiến thức", "comment": "Dự án đạt được 30 - 50% kiến thức bài học và có vài lỗi nhỏ."},
+          {"group": "Sản phẩm", "criteria": "Tính hoàn thiện", "comment": "Dự án có thông tin giới thiệu cơ bản."},
+          {"group": "Sản phẩm", "criteria": "Thiết kế", "comment": "Dự án dựa trên thiết kế có sẵn."},
+          {"group": "Thái độ học tập", "criteria": "Đúng giờ", "comment": "Đi học đầy đủ, đúng giờ."},
+          {"group": "Thái độ học tập", "criteria": "Mức độ tập trung", "comment": "Bắt đầu tập trung hơn vào bài giảng."},
+          {"group": "Thái độ học tập", "criteria": "Tham gia hoạt động", "comment": "Có tham gia trả lời câu hỏi của giáo viên."},
+          {"group": "Thái độ học tập", "criteria": "Thái độ", "comment": "Thái độ học tập nghiêm túc hơn."}
+        ]
+      },
+      {
+        "lesson_number": 3,
+        "title": "Buổi 3 - Xử lý Danh sách",
+        "criteria_table": [
+          {"group": "Kiến thức", "criteria": "Bài tập về nhà", "comment": "Bạn đã thực hiện bài tập, độ chính xác từ 50% đến 80%."},
+          {"group": "Kiến thức", "criteria": "Kiến thức cũ", "comment": "Bạn nhớ được kiến thức cũ nhưng còn bối rối trong việc áp dụng trong hoàn cảnh mới, kết hợp kiến thức mới."},
+          {"group": "Kiến thức", "criteria": "Kiến thức mới", "comment": "Bạn tiếp thu kiến thức tốt. Hoàn thành 100% các nhiệm vụ bài học."},
+          {"group": "Kĩ Năng", "criteria": "Tư duy phản biện (Critical Thinking)", "comment": "Bạn chưa đưa ra được dẫn chứng cho quan điểm cá nhân."},
+          {"group": "Kĩ Năng", "criteria": "Hợp tác nhóm (Collaboration)", "comment": "Bạn nỗ lực hoàn thành nhiệm vụ được giao, hướng tới đạt mục tiêu của nhóm."},
+          {"group": "Kĩ Năng", "criteria": "Sáng tạo (Creativity)", "comment": "Bạn đưa ra được nhiều ý tưởng sáng tạo nhưng cần giáo viên gợi ý lựa chọn và triển khai."},
+          {"group": "Kĩ Năng", "criteria": "Chia sẻ ý tưởng (Communication)", "comment": "Bạn trình bày ý tưởng tự tin, trôi chảy và thuyết phục."},
+          {"group": "Sản phẩm", "criteria": "Ý tưởng dự án/sản phẩm", "comment": "Dự án có chủ đề/vấn đề rõ ràng. Có sử dụng một số ý tưởng từ các dự án khác nhưng được thay đổi cho phù hợp với sản phẩm."},
+          {"group": "Sản phẩm", "criteria": "Kiến thức", "comment": "Đã sử dụng tất cả các kiến thức bắt buộc. Các tính năng hoạt động bình thường."},
+          {"group": "Sản phẩm", "criteria": "Tính hoàn thiện", "comment": "Dự án có thông tin giới thiệu cơ bản: Tên sản phẩm, người thực hiện,..."},
+          {"group": "Sản phẩm", "criteria": "Thiết kế", "comment": "Dự án có tính nâng cấp dựa trên mẫu có sẵn."},
+          {"group": "Thái độ học tập", "criteria": "Đúng giờ", "comment": "Luôn luôn đúng giờ."},
+          {"group": "Thái độ học tập", "criteria": "Mức độ tập trung", "comment": "Tập trung tốt, hoàn thành bài tập sớm."},
+          {"group": "Thái độ học tập", "criteria": "Tham gia hoạt động", "comment": "Tích cực thảo luận nhóm."},
+          {"group": "Thái độ học tập", "criteria": "Thái độ", "comment": "Thân thiện, hòa đồng với bạn học."}
+        ]
+      },
+      {
+        "lesson_number": 4,
+        "title": "Buổi 4 - Xây dựng hàm",
+        "criteria_table": [
+          {"group": "Kiến thức", "criteria": "Bài tập về nhà", "comment": "Bạn đã thực hiện đầy đủ các bài tập, độ chính xác từ 80% đến 90%."},
+          {"group": "Kiến thức", "criteria": "Kiến thức cũ", "comment": "Bạn nhớ rõ kiến thức cũ và biết cách áp dụng và kết hợp kiến thức mới để giải quyết thử thách được đặt ra."},
+          {"group": "Kiến thức", "criteria": "Kiến thức mới", "comment": "Bạn tiếp thu kiến thức tốt. Hoàn thành 100% các nhiệm vụ bài học."},
+          {"group": "Kĩ Năng", "criteria": "Tư duy phản biện (Critical Thinking)", "comment": "Bạn tích cực lắng nghe và đặt câu hỏi, trao đổi xây dựng bài học."},
+          {"group": "Kĩ Năng", "criteria": "Hợp tác nhóm (Collaboration)", "comment": "Bạn nỗ lực hoàn thành nhiệm vụ được giao, hướng tới đạt mục tiêu của nhóm."},
+          {"group": "Kĩ Năng", "criteria": "Sáng tạo (Creativity)", "comment": "Bạn đưa ra được nhiều ý tưởng sáng tạo nhưng cần giáo viên gợi ý lựa chọn và triển khai."},
+          {"group": "Kĩ Năng", "criteria": "Chia sẻ ý tưởng (Communication)", "comment": "Bạn trình bày ý tưởng tự tin, trôi chảy và thuyết phục."},
+          {"group": "Sản phẩm", "criteria": "Ý tưởng dự án/sản phẩm", "comment": "Dự án có chủ đề/vấn đề rõ ràng. Có sử dụng một số ý tưởng từ các dự án khác nhưng được thay đổi cho phù hợp với sản phẩm."},
+          {"group": "Sản phẩm", "criteria": "Kiến thức", "comment": "Đã sử dụng tất cả các kiến thức bắt buộc. Dự án đạt được 70 - 50% kiến thức bài học."},
+          {"group": "Sản phẩm", "criteria": "Tính hoàn thiện", "comment": "Dự án có hướng dẫn dành cho người sử dụng thông qua thông tin."},
+          {"group": "Sản phẩm", "criteria": "Thiết kế", "comment": "Dự án có tính nâng cấp dựa trên mẫu có sẵn."},
+          {"group": "Thái độ học tập", "criteria": "Đúng giờ", "comment": "Rất đúng giờ."},
+          {"group": "Thái độ học tập", "criteria": "Mức độ tập trung", "comment": "Hăng hái phát biểu."},
+          {"group": "Thái độ học tập", "criteria": "Tham gia hoạt động", "comment": "Sẵn sàng hỗ trợ bạn khác."},
+          {"group": "Thái độ học tập", "criteria": "Thái độ", "comment": "Cầu thị, lắng nghe nhận xét."}
+        ]
+      },
+      {
+        "lesson_number": 5,
+        "title": "Buổi 5 - Dictionary",
+        "criteria_table": [
+          {"group": "Kiến thức", "criteria": "Bài tập về nhà", "comment": "Bạn đã hoàn thành xuất sắc bài tập về nhà và hầu như không có lỗi nào trong kết quả."},
+          {"group": "Kiến thức", "criteria": "Kiến thức cũ", "comment": "Bạn nhớ rõ kiến thức cũ và biết cách áp dụng và kết hợp kiến thức mới để giải quyết thử thách được đặt ra."},
+          {"group": "Kiến thức", "criteria": "Kiến thức mới", "comment": "Bạn tiếp thu kiến thức tốt. Hoàn thành 100% các nhiệm vụ bài học."},
+          {"group": "Kĩ Năng", "criteria": "Tư duy phản biện (Critical Thinking)", "comment": "Bạn chủ động lập luận, tìm hiểu vấn đề và đưa ra phương án giải quyết."},
+          {"group": "Kĩ Năng", "criteria": "Hợp tác nhóm (Collaboration)", "comment": "Bạn có thể điều phối các công việc trong nhóm, hướng tới đạt mục tiêu của đội nhóm."},
+          {"group": "Kĩ Năng", "criteria": "Sáng tạo (Creativity)", "comment": "Bạn tự tin phát triển ý tưởng cá nhân, dám thử nghiệm, thực hiện các phương án khác nhau để giải quyết vấn đề."},
+          {"group": "Kĩ Năng", "criteria": "Chia sẻ ý tưởng (Communication)", "comment": "Trình bày thuyết phục và xử lý tình huống tốt."},
+          {"group": "Sản phẩm", "criteria": "Ý tưởng dự án/sản phẩm", "comment": "Dự án có sự mở rộng về chủ đề/vấn đề của bài học. Dự án hoàn toàn không sử dụng ý tưởng từ dự án khác."},
+          {"group": "Sản phẩm", "criteria": "Kiến thức", "comment": "Dự án sử dụng các kiến thức nâng cao. Dự án hoạt động bình thường, không có các câu lệnh thừa."},
+          {"group": "Sản phẩm", "criteria": "Tính hoàn thiện", "comment": "Dự án có hướng dẫn dành cho người sử dụng ngay trong chính sản phẩm."},
+          {"group": "Sản phẩm", "criteria": "Thiết kế", "comment": "Dự án được thiết kế theo hướng cá nhân hóa. Các tài nguyên được sử dụng nhất quán, hài hòa."},
+          {"group": "Thái độ học tập", "criteria": "Đúng giờ", "comment": "Nghiêm túc chấp hành giờ giấc."},
+          {"group": "Thái độ học tập", "criteria": "Mức độ tập trung", "comment": "Tập trung tuyệt đối."},
+          {"group": "Thái độ học tập", "criteria": "Tham gia hoạt động", "comment": "Dẫn dắt các hoạt động nhóm."},
+          {"group": "Thái độ học tập", "criteria": "Thái độ", "comment": "Lễ phép, ham học hỏi."}
+        ]
+      },
+      {
+        "lesson_number": 6,
+        "title": "Buổi 6 - Dự án cuối khóa",
+        "criteria_table": [
+          {"group": "Kiến thức", "criteria": "Bài tập về nhà", "comment": "Bạn đã hoàn thành xuất sắc bài tập về nhà và hầu như không có lỗi nào trong kết quả."},
+          {"group": "Kiến thức", "criteria": "Kiến thức cũ", "comment": "Bạn nhớ rõ kiến thức cũ và biết cách áp dụng và kết hợp kiến thức mới để giải quyết thử thách được đặt ra."},
+          {"group": "Kiến thức", "criteria": "Kiến thức mới", "comment": "Bạn tiếp thu kiến thức tốt. Hoàn thành 100% các nhiệm vụ bài học."},
+          {"group": "Kĩ Năng", "criteria": "Tư duy phản biện (Critical Thinking)", "comment": "Bạn chủ động lập luận, tìm hiểu vấn đề và đưa ra phương án giải quyết."},
+          {"group": "Kĩ Năng", "criteria": "Hợp tác nhóm (Collaboration)", "comment": "Bạn có thể điều phối các công việc trong nhóm, hướng tới đạt mục tiêu của đội nhóm."},
+          {"group": "Kĩ Năng", "criteria": "Sáng tạo (Creativity)", "comment": "Bạn tự tin phát triển ý tưởng cá nhân, dám thử nghiệm, thực hiện các phương án khác nhau để giải quyết vấn đề."},
+          {"group": "Kĩ Năng", "criteria": "Chia sẻ ý tưởng (Communication)", "comment": "Trình bày thuyết phục và xử lý tình huống tốt."},
+          {"group": "Sản phẩm", "criteria": "Ý tưởng dự án/sản phẩm", "comment": "Dự án hoàn toàn không sử dụng ý tưởng từ dự án khác. Thể hiện được tính cá nhân hóa."},
+          {"group": "Sản phẩm", "criteria": "Kiến thức", "comment": "Dự án có sự mở rộng về tính năng hoạt động. Đạt hơn 70% kiến thức bài học."},
+          {"group": "Sản phẩm", "criteria": "Tính hoàn thiện", "comment": "Dự án có hướng dẫn dành cho người sử dụng ngay trong chính sản phẩm."},
+          {"group": "Sản phẩm", "criteria": "Thiết kế", "comment": "Dự án được thiết kế theo hướng cá nhân hóa. Các tài nguyên được sử dụng nhất quán, hài hòa."},
+          {"group": "Thái độ học tập", "criteria": "Đúng giờ", "comment": "Hoàn thành dự án sớm hơn thời hạn."},
+          {"group": "Thái độ học tập", "criteria": "Mức độ tập trung", "comment": "Say mê nghiên cứu tính năng mới."},
+          {"group": "Thái độ học tập", "criteria": "Tham gia hoạt động", "comment": "Chia sẻ kinh nghiệm làm dự án cho bạn bè."},
+          {"group": "Thái độ học tập", "criteria": "Thái độ", "comment": "Tự tin, cầu thị."}
+        ]
+      }
+    ]
+  }
+]
