@@ -1,0 +1,160 @@
+{
+  "Knowledge": {
+    "bai_tap_ve_nha": {
+      "title": "Bài tập về nhà",
+      "levels": [
+        { "score": 0, "comment": "Bạn chưa thực hiện bài tập về nhà" },
+        { "score": 25, "comment": "Bạn đã thực hiện các bài tập nhưng độ chính xác <50%" },
+        { "score": 50, "comment": "Bạn đã thực hiện bài tập, độ chính xác từ 50% đến 80%" },
+        { "score": 75, "comment": "Bạn đã thực hiện đầy đủ các bài tập, độ chính xác từ 80% đến 90%" },
+        { "score": 100, "comment": "Bạn đã hoàn thành xuất sắc bài tập về nhà và hầu như không có lỗi nào trong kết quả" }
+      ]
+    },
+    "kien_thuc_cu": {
+      "title": "Kiến thức cũ",
+      "levels": [
+        { "score": 0, "comment": "Bạn gần như không nhớ rõ kiến thức cũ, cần giáo viên nhắc lại và hỗ trợ nhiều" },
+        { "score": 50, "comment": "Bạn nhớ được hầu hết kiến thức cũ, đôi khi còn quên một số nội dung và cần giáo viên nhắc lại" },
+        { "score": 75, "comment": "Bạn nhớ được kiến thức cũ nhưng còn bối rối trong việc áp dụng trong hoàn cảnh mới, kết hợp kiến thức mới" },
+        { "score": 100, "comment": "Bạn nhớ rõ kiến thức cũ và biết cách áp dụng và kết hợp kiến thức mới để giải quyết thử thách được đặt ra" }
+      ]
+    },
+    "kien_thuc_moi": {
+      "title": "Kiến thức mới",
+      "levels": [
+        { "score": 0, "comment": "Bạn hoàn thiện dưới 50% các nhiệm vụ kiến thức. Cần cố gắng hơn" },
+        { "score": 50, "comment": "Bạn tiếp thu kiến thức khá tốt, hoàn thành dưới 70% thử thách thuộc phần kiến thức mới trong bài" },
+        { "score": 100, "comment": "Bạn tiếp thu kiến thức tốt. Hoàn thành 100% các nhiệm vụ bài học" }
+      ]
+    }
+  },
+
+  "Skill": {
+    "giao_tiep": {
+      "title": "Chia sẻ ý tưởng (Communication)",
+      "levels": [
+        { "score": 0, "comment": "Bạn chưa thể trình bày rõ ràng ý tưởng của mình. Cần rèn luyện thêm" },
+        { "score": 50, "comment": "Bạn trình bày được ý tưởng, nhưng chưa trôi chảy" },
+        { "score": 75, "comment": "Bạn trình bày ý tưởng tự tin, trôi chảy và thuyết phục" },
+        { "score": 100, "comment": "Trình bày thuyết phục và xử lý tình huống tốt" }
+      ]
+    },
+    "hop_tac": {
+      "title": "Hợp tác nhóm (Collaboration)",
+      "levels": [
+        { "score": 0, "comment": "Bạn chưa sẵn sàng tham gia hoạt động nhóm" },
+        { "score": 25, "comment": "Bạn tham gia hoạt động nhóm nhưng chưa tích cực" },
+        { "score": 75, "comment": "Bạn nỗ lực hoàn thành nhiệm vụ được giao, hướng tới đạt mục tiêu của nhóm" },
+        { "score": 100, "comment": "Bạn có thể điều phối các công việc trong nhóm, hướng tới đạt mục tiêu của đội nhóm" }
+      ]
+    },
+    "sang_tao": {
+      "title": "Sáng tạo (Creativity)",
+      "levels": [
+        { "score": 0, "comment": "Bạn hoàn thiện nhiệm vụ theo mẫu của giáo viên" },
+        { "score": 25, "comment": "Bạn có ý tưởng mới nhưng những ý tưởng này ít liên quan đến vấn đề đặt ra" },
+        { "score": 75, "comment": "Bạn đưa ra được nhiều ý tưởng sáng tạo nhưng cần giáo viên gợi ý lựa chọn và triển khai" },
+        { "score": 100, "comment": "Bạn tự tin phát triển ý tưởng cá nhân, dám thử nghiệm, thực hiện các phương án khác nhau để giải quyết vấn đề" }
+      ]
+    },
+    "tu_duy_phan_bien": {
+      "title": "Tư duy phản biện (Critical Thinking)",
+      "levels": [
+        { "score": 0, "comment": "Bạn còn rụt rè trong việc đưa ra quan điểm cá nhân" },
+        { "score": 25, "comment": "Bạn có trao đổi, phát biểu ý kiến nhưng chưa đúng trọng tâm bài học" },
+        { "score": 50, "comment": "Bạn chưa đưa ra được dẫn chứng cho quan điểm cá nhân" },
+        { "score": 75, "comment": "Bạn tích cực lắng nghe và đặt câu hỏi, trao đổi xây dựng bài học" },
+        { "score": 100, "comment": "Bạn chủ động lập luận, tìm hiểu vấn đề và đưa ra phương án giải quyết" }
+      ]
+    }
+  },
+
+  "Product": {
+    "van_dung_kien_thuc": {
+      "title": "Kiến thức",
+      "levels": [
+        { "score": 0, "comment": "Dự án chưa hoàn thiện hoặc chưa chạy được. Dự án đạt được 30% kiến thức của bài học" },
+        { "score": 25, "comment": "Dự án đạt được 30 - 50% kiến thức bài học và có vài lỗi nhỏ" },
+        { "score": 50, "comment": "Đã sử dụng tất cả các kiến thức bắt buộc. Dự án đạt được 70 - 50% kiến thức bài học" },
+        { "score": 75, "comment": "Đã sử dụng tất cả các kiến thức bắt buộc. Các tính năng hoạt động bình thường" },
+        { "score": 100, "comment": "Dự án sử dụng các kiến thức nâng cao. Dự án hoạt động bình thường, không có các câu lệnh thừa" }
+      ]
+    },
+    "thiet_ke": {
+      "title": "Thiết kế",
+      "levels": [
+        { "score": 0, "comment": "Dự án chưa hoàn thành hoặc chưa thể hiện được ý tưởng" },
+        { "score": 25, "comment": "Dự án dựa trên thiết kế có sẵn" },
+        { "score": 75, "comment": "Dự án có tính nâng cấp dựa trên mẫu có sẵn" },
+        { "score": 100, "comment": "Dự án được thiết kế theo hướng cá nhân hóa. Các tài nguyên được sử dụng nhất quán, hài hòa" }
+      ]
+    },
+    "tinh_hoan_thien": {
+      "title": "Tính hoàn thiện",
+      "levels": [
+        { "score": 0, "comment": "Dự án không có bất kỳ thông tin nào" },
+        { "score": 25, "comment": "Dự án có thông tin giới thiệu cơ bản" },
+        { "score": 50, "comment": "Dự án có thông tin giới thiệu cơ bản: Tên sản phẩm, người thực hiện" },
+        { "score": 75, "comment": "Dự án có hướng dẫn dành cho người sử dụng thông qua thông tin" },
+        { "score": 100, "comment": "Dự án có hướng dẫn dành cho người sử dụng ngay trong chính sản phẩm" }
+      ]
+    },
+    "y_tuong": {
+      "title": "Ý tưởng dự án/sản phẩm",
+      "levels": [
+        { "score": 0, "comment": "Dự án không thể hiện được vấn đề/chủ đề cụ thể cần hướng đến" },
+        { "score": 25, "comment": "Dự án thể hiện được 1 phần chủ đề/vấn đề của bài học. Dự án có sử dụng một số ý tưởng từ sản phẩm khác" },
+        { "score": 50, "comment": "Dự án có chủ đề/vấn đề rõ ràng. Có sử dụng một số ý tưởng từ các dự án khác nhưng được thay đổi cho phù hợp với sản phẩm" },
+        { "score": 75, "comment": "Dự án có sự mở rộng về chủ đề/vấn đề của bài học. Dự án hoàn toàn không sử dụng ý tưởng từ dự án khác" },
+        { "score": 100, "comment": "Dự án hoàn toàn không sử dụng ý tưởng từ dự án khác. Thể hiện được tính cá nhân hóa" }
+      ]
+    }
+  },
+
+  "Behavior": {
+    "dung_gio": {
+      "title": "Đúng giờ",
+      "levels": [
+        { "score": 0, "comment": "Bạn cần chú ý đi học đúng giờ hơn" },
+        { "score": 50, "comment": "Đi học đầy đủ, đúng giờ" },
+        { "score": 75, "comment": "Luôn luôn đúng giờ" },
+        { "score": 85, "comment": "Rất đúng giờ" },
+        { "score": 90, "comment": "Nghiêm túc chấp hành giờ giấc" },
+        { "score": 100, "comment": "Hoàn thành dự án sớm hơn thời hạn" }
+      ]
+    },
+    "tap_trung": {
+      "title": "Mức độ tập trung",
+      "levels": [
+        { "score": 0, "comment": "Bạn còn hay làm việc riêng trong giờ" },
+        { "score": 50, "comment": "Bắt đầu tập trung hơn vào bài giảng" },
+        { "score": 75, "comment": "Tập trung tốt, hoàn thành bài tập sớm" },
+        { "score": 85, "comment": "Hăng hái phát biểu" },
+        { "score": 95, "comment": "Tập trung tuyệt đối" },
+        { "score": 100, "comment": "Say mê nghiên cứu tính năng mới" }
+      ]
+    },
+    "tham_gia": {
+      "title": "Tham gia hoạt động",
+      "levels": [
+        { "score": 0, "comment": "Bạn ít tương tác trong các hoạt động chung" },
+        { "score": 25, "comment": "Có tham gia trả lời câu hỏi của giáo viên" },
+        { "score": 50, "comment": "Tích cực thảo luận nhóm" },
+        { "score": 75, "comment": "Sẵn sàng hỗ trợ bạn khác" },
+        { "score": 90, "comment": "Dẫn dắt các hoạt động nhóm" },
+        { "score": 100, "comment": "Chia sẻ kinh nghiệm làm dự án cho bạn bè" }
+      ]
+    },
+    "thai_do": {
+      "title": "Thái độ",
+      "levels": [
+        { "score": 0, "comment": "Bạn còn ngại giao tiếp với thầy cô" },
+        { "score": 50, "comment": "Thái độ học tập nghiêm túc hơn" },
+        { "score": 75, "comment": "Thân thiện, hòa đồng với bạn học" },
+        { "score": 85, "comment": "Cầu thị, lắng nghe nhận xét" },
+        { "score": 90, "comment": "Lễ phép, ham học hỏi" },
+        { "score": 100, "comment": "Tự tin, cầu thị" }
+      ]
+    }
+  }
+}
