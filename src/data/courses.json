@@ -1,0 +1,75 @@
+{
+  "brand": "VinCare AI Academy",
+  "courses": [
+    {
+      "id": "PY101",
+      "name": "Lập trình Python Cơ bản",
+      "level": "Cơ bản",
+      "age_group": "8 - 12 tuổi",
+      "duration": "24 buổi (3 tháng)",
+      "description": "Làm quen với tư duy lập trình thông qua ngôn ngữ Python. Học viên sẽ được học về biến, vòng lặp, hàm và xây dựng các trò chơi đơn giản.",
+      "syllabus": [
+        "Làm quen với môi trường lập trình",
+        "Biến và các kiểu dữ liệu",
+        "Cấu trúc điều kiện và vòng lặp",
+        "Xử lý danh sách và chuỗi",
+        "Xây dựng dự án game đầu tay"
+      ],
+      "outcomes": [
+        "Nắm vững tư duy logic",
+        "Tự xây dựng được sản phẩm phần mềm cơ bản",
+        "Chứng chỉ hoàn thành khóa học VinCare"
+      ]
+    },
+    {
+      "id": "WEB201",
+      "name": "Thiết kế Website Hiện đại",
+      "level": "Trung cấp",
+      "age_group": "12 - 16 tuổi",
+      "duration": "32 buổi (4 tháng)",
+      "description": "Tự tay thiết kế và lập trình các trang web chuyên nghiệp sử dụng HTML5, CSS3 và Javascript.",
+      "syllabus": [
+        "Cấu trúc HTML5 và Semantic Web",
+        "Styling với CSS3 và Flexbox",
+        "Lập trình tương tác với Javascript",
+        "Responsive Design (Tương thích thiết bị di động)",
+        "Triển khai website lên Internet"
+      ],
+      "outcomes": [
+        "Sở hữu portfolio website cá nhân",
+        "Hiểu về UI/UX cơ bản",
+        "Kỹ năng lập trình Frontend"
+      ]
+    },
+    {
+      "id": "AI301",
+      "name": "Nhập môn Trí tuệ Nhân tạo (AI)",
+      "level": "Nâng cao",
+      "age_group": "14+ tuổi",
+      "duration": "36 buổi (4.5 tháng)",
+      "description": "Khám phá thế giới AI, Machine Learning và cách ứng dụng AI vào cuộc sống thực tế.",
+      "syllabus": [
+        "Tổng quan về AI và Machine Learning",
+        "Xác suất thống kê cho AI",
+        "Huấn luyện mô hình nhận diện hình ảnh",
+        "Xử lý ngôn ngữ tự nhiên (NLP)",
+        "Dự án AI cuối khóa (Chatbot hoặc Nhận diện)"
+      ],
+      "outcomes": [
+        "Hiểu nguyên lý hoạt động của ChatGPT, AI",
+        "Kỹ năng xử lý dữ liệu lớn",
+        "Tư duy công nghệ đón đầu tương lai"
+      ]
+    }
+  ],
+  "benefits": [
+    "Sĩ số lớp nhỏ (tối đa 8 học sinh)",
+    "Hệ thống Portfolio theo dõi tiến độ từng buổi",
+    "Môi trường học tập năng động, hiện đại",
+    "Đội ngũ giảng viên từ các trường Đại học danh tiếng"
+  ],
+  "contact": {
+    "hotline": "1900-VINCARE",
+    "address": "Tòa nhà VinCare, Khu đô thị Vinhomes"
+  }
+}
