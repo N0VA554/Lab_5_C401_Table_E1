@@ -20,7 +20,7 @@ Justify: *Automation — Chatbot AI tự động hóa hoàn toàn khâu tra cứ
 
 1. User correction đi vào đâu? *Hệ thống ghi nhận feedback của người dùng và các lựa chọn (click khóa học) để cải thiện model từ 5-10% mỗi tháng.*
 2. Product thu signal gì để biết tốt lên hay tệ đi? *Đo lường qua tỷ lệ Click khóa học, Lựa chọn user, Điểm Feedback, Tần suất yêu cầu gặp người thật (Request human) và Thời gian phản hồi (Response time).*
-3. Data thuộc loại nào? ☒ User-specific (Điểm số, kỹ năng của từng bé) · ☒ Domain-specific (Lộ trình học Teky) · ☐ Real-time · ☐ Human-judgment
+3. Data thuộc loại nào? · ☒ Real-time · ☐ Human-judgment
    Có marginal value không? *Có, model sẽ học được cách tư vấn khéo léo hơn dựa trên tỷ lệ chuyển đổi click khóa học từ các phụ huynh trước.*
 
 ---
