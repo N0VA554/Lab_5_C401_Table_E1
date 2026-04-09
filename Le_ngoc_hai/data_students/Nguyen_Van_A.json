@@ -1,0 +1,73 @@
+{
+  "course": "Tên khóa học",
+  "course module": "Tên học phần",
+  "lesson": "Tên bài học",
+  "Knowledge": {
+    "Criterion1": {
+      "title": "Bài tập về nhà",
+      "comment": "Bạn đã hoàn thành tất cả bài tập với độ chính xác từ 80% đến 90%."
+    },
+    "Criterion2": {
+      "title": "Kiến thức cũ",
+      "comment": "Bạn nhớ được kiến thức đã học nhưng vẫn còn lúng túng khi áp dụng trong bối cảnh mới và kết hợp với kiến thức mới."
+    },
+    "Criterion3": {
+      "title": "Kiến thức mới",
+      "comment": "Bạn tiếp thu kiến thức mới tốt và hoàn thành 100% các nhiệm vụ học tập."
+    }
+  },
+  "Skill": {
+    "Criterion1": {
+      "title": "Giao tiếp",
+      "comment": "Bạn trình bày thuyết phục và xử lý tình huống tốt."
+    },
+    "Criterion2": {
+      "title": "Hợp tác",
+      "comment": "Bạn nỗ lực hoàn thành nhiệm vụ được giao và hướng tới mục tiêu chung của nhóm."
+    },
+    "Criterion3": {
+      "title": "Sáng tạo",
+      "comment": "Bạn tự tin phát triển ý tưởng cá nhân, dám thử nghiệm và khám phá nhiều cách tiếp cận khác nhau để giải quyết vấn đề."
+    },
+    "Criterion4": {
+      "title": "Tư duy phản biện",
+      "comment": "Bạn tích cực lắng nghe, đặt câu hỏi và tham gia thảo luận mang tính xây dựng."
+    }
+  },
+  "Product": {
+    "Criterion1": {
+      "title": "Vận dụng kiến thức",
+      "comment": "Dự án áp dụng kiến thức nâng cao, hoạt động ổn định, không có lỗi, có tính thẩm mỹ tốt, đạt trên 70% nội dung kiến thức bài học và có mở rộng thêm chức năng."
+    },
+    "Criterion2": {
+      "title": "Thiết kế",
+      "comment": "Dự án được thiết kế theo hướng cá nhân hóa. Các tài nguyên được sử dụng nhất quán và hài hòa."
+    },
+    "Criterion3": {
+      "title": "Tính hoàn thiện",
+      "comment": "Dự án có đầy đủ thông tin giới thiệu cơ bản."
+    },
+    "Criterion4": {
+      "title": "Ý tưởng dự án",
+      "comment": "Dự án thể hiện một phần chủ đề/vấn đề của bài học và có tham khảo ý tưởng từ các sản phẩm khác."
+    }
+  },
+  "Behavior": {
+    "Criterion1": {
+      "title": "Đúng giờ",
+      "comment": "Bạn đi học đúng giờ."
+    },
+    "Criterion2": {
+      "title": "Mức độ tập trung trong giờ học",
+      "comment": "Bạn rất tập trung, thể hiện qua việc tương tác với toàn bộ nội dung bài học."
+    },
+    "Criterion3": {
+      "title": "Tham gia hoạt động",
+      "comment": "Bạn chủ động tham gia các hoạt động trong lớp."
+    },
+    "Criterion4": {
+      "title": "Thái độ giao tiếp",
+"comment": "Bạn tự tin trong giao tiếp và tương tác với thầy cô, bạn bè."
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "Knowledge": {
+    "bai_tap_ve_nha": {
+      "title": "Bài tập về nhà",
+      "levels": [
+        { "score": 0, "comment": "Bạn chưa thực hiện bài tập về nhà" },
+        { "score": 25, "comment": "Bạn đã thực hiện các bài tập nhưng độ chính xác <50%" },
+        { "score": 50, "comment": "Bạn đã thực hiện bài tập, độ chính xác từ 50% đến 80%" },
+        { "score": 75, "comment": "Bạn đã thực hiện đầy đủ các bài tập, độ chính xác từ 80% đến 90%" },
+        { "score": 100, "comment": "Bạn đã hoàn thành xuất sắc bài tập về nhà và hầu như không có lỗi nào trong kết quả" }
+      ]
+    },
+    "kien_thuc_cu": {
+      "title": "Kiến thức cũ",
+      "levels": [
+        { "score": 0, "comment": "Bạn gần như không nhớ rõ kiến thức cũ, cần giáo viên nhắc lại và hỗ trợ nhiều" },
+        { "score": 50, "comment": "Bạn nhớ được hầu hết kiến thức cũ, đôi khi còn quên một số nội dung" },
+        { "score": 75, "comment": "Bạn nhớ được kiến thức cũ nhưng còn bối rối khi áp dụng" },
+        { "score": 100, "comment": "Bạn nhớ rõ kiến thức cũ và biết cách áp dụng với kiến thức mới" }
+      ]
+    },
+    "kien_thuc_moi": {
+      "title": "Kiến thức mới",
+      "levels": [
+        { "score": 0, "comment": "Bạn hoàn thiện dưới 50% các nhiệm vụ kiến thức" },
+        { "score": 50, "comment": "Bạn tiếp thu khá tốt, hoàn thành dưới 70% nhiệm vụ" },
+        { "score": 100, "comment": "Bạn tiếp thu tốt và hoàn thành 100% nhiệm vụ" }
+      ]
+    }
+  },
+
+  "Skill": {
+    "giao_tiep": {
+      "title": "Giao tiếp",
+      "levels": [
+        { "score": 0, "comment": "Bạn chưa thể trình bày rõ ràng ý tưởng" },
+        { "score": 50, "comment": "Bạn trình bày được ý tưởng nhưng chưa trôi chảy" },
+        { "score": 75, "comment": "Bạn trình bày tự tin, trôi chảy" },
+        { "score": 100, "comment": "Bạn trình bày thuyết phục và xử lý tình huống tốt" }
+      ]
+    },
+    "hop_tac": {
+      "title": "Hợp tác",
+      "levels": [
+        { "score": 0, "comment": "Bạn chưa sẵn sàng tham gia hoạt động nhóm" },
+        { "score": 25, "comment": "Bạn tham gia nhưng chưa tích cực" },
+        { "score": 75, "comment": "Bạn hoàn thành nhiệm vụ và hướng tới mục tiêu nhóm" },
+        { "score": 100, "comment": "Bạn có thể điều phối nhóm" }
+      ]
+    },
+    "sang_tao": {
+      "title": "Sáng tạo",
+      "levels": [
+        { "score": 0, "comment": "Bạn làm theo mẫu" },
+        { "score": 25, "comment": "Bạn có ý tưởng nhưng chưa liên quan" },
+        { "score": 75, "comment": "Bạn có nhiều ý tưởng nhưng cần hướng dẫn" },
+        { "score": 100, "comment": "Bạn tự phát triển và thử nghiệm ý tưởng" }
+      ]
+    },
+    "tu_duy_phan_bien": {
+      "title": "Tư duy phản biện",
+      "levels": [
+        { "score": 0, "comment": "Bạn rụt rè khi đưa ra quan điểm" },
+        { "score": 25, "comment": "Bạn phát biểu nhưng chưa đúng trọng tâm" },
+        { "score": 50, "comment": "Bạn chưa có dẫn chứng rõ ràng" },
+        { "score": 75, "comment": "Bạn tích cực trao đổi và đặt câu hỏi" },
+        { "score": 100, "comment": "Bạn lập luận tốt và đưa ra giải pháp" }
+      ]
+    }
+  },
+
+  "Product": {
+    "van_dung_kien_thuc": {
+      "title": "Vận dụng kiến thức",
+      "levels": [
+        { "score": 0, "comment": "Dự án chưa hoàn thiện hoặc không chạy" },
+        { "score": 25, "comment": "Dự án đạt 30-50%, có lỗi" },
+        { "score": 75, "comment": "Dự án hoạt động ổn định, có thẩm mỹ" },
+        { "score": 100, "comment": "Dự án nâng cao, không lỗi, có mở rộng" }
+      ]
+    },
+    "thiet_ke": {
+      "title": "Thiết kế",
+      "levels": [
+        { "score": 0, "comment": "Chưa thể hiện ý tưởng" },
+        { "score": 25, "comment": "Dựa trên mẫu có sẵn" },
+        { "score": 75, "comment": "Có cải tiến từ mẫu" },
+        { "score": 100, "comment": "Thiết kế cá nhân hóa, hài hòa" }
+      ]
+    },
+    "tinh_hoan_thien": {
+      "title": "Tính hoàn thiện",
+      "levels": [
+        { "score": 0, "comment": "Không có thông tin" },
+        { "score": 25, "comment": "Có thông tin cơ bản" },
+        { "score": 75, "comment": "Có hướng dẫn sử dụng" },
+        { "score": 100, "comment": "Hướng dẫn tích hợp trong sản phẩm" }
+      ]
+    },
+    "y_tuong": {
+      "title": "Ý tưởng dự án",
+      "levels": [
+        { "score": 0, "comment": "Không rõ vấn đề" },
+        { "score": 50, "comment": "Có sử dụng ý tưởng từ sản phẩm khác" },
+        { "score": 75, "comment": "Có điều chỉnh và phù hợp" },
+        { "score": 100, "comment": "Ý tưởng mới, cá nhân hóa" }
+      ]
+    }
+  },
+
+  "Behavior": {
+    "dung_gio": {
+      "title": "Đúng giờ",
+      "levels": [
+        { "score": 0, "comment": "Đi muộn trên 15 phút" },
+        { "score": 50, "comment": "Đi muộn dưới 15 phút" },
+        { "score": 100, "comment": "Đi học đúng giờ" }
+      ]
+    },
+    "tap_trung": {
+      "title": "Tập trung",
+      "levels": [
+        { "score": 0, "comment": "Ít tập trung" },
+        { "score": 50, "comment": "Thỉnh thoảng mất tập trung" },
+        { "score": 100, "comment": "Rất tập trung" }
+      ]
+    },
+    "tham_gia": {
+      "title": "Tham gia hoạt động",
+      "levels": [
+        { "score": 0, "comment": "Không tham gia" },
+        { "score": 25, "comment": "Muốn tham gia nhưng rụt rè" },
+        { "score": 75, "comment": "Chủ động tham gia" },
+        { "score": 100, "comment": "Rất tích cực, đề xuất hoạt động" }
+      ]
+    },
+    "giao_tiep": {
+      "title": "Thái độ giao tiếp",
+      "levels": [
+        { "score": 25, "comment": "Rụt rè" },
+        { "score": 75, "comment": "Tự tin" },
+        { "score": 100, "comment": "Rất chủ động" }
+      ]
+    }
+  }
+}
