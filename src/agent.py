@@ -14,8 +14,6 @@ from langgraph.graph.message import add_messages
 from dotenv import load_dotenv
 
 # ─────────────────────────────────────────────
-# Import tools và data loader từ tools.py
-# ─────────────────────────────────────────────
 from tools import (
     ALL_TOOLS,
     analyze_intent,
@@ -25,6 +23,7 @@ from tools import (
     list_available_students,
     get_llm,
 )
+from logger import log_token_usage
 
 load_dotenv()
 
@@ -272,7 +271,23 @@ if __name__ == "__main__":
 
         print("🤖 Bot đang suy nghĩ...")
         try:
-            answer = run_agent(question, selected_mode, student_input, student_data)
+            # Chạy agent và lấy state cuối cùng để xem token usage
+            graph = build_graph()
+            initial_state: AgentState = {
+                "messages": [HumanMessage(content=question)],
+                "json_data": student_data if student_data else {},
+                "student_name": student_input,
+                "mode": selected_mode,
+                "intent": "",
+                "query": "",
+                "query_result": None,
+            }
+            final_state = graph.invoke(initial_state)
+            answer = final_state["messages"][-1].content
+            
+            # Ghi log token usage bằng logger module mới
+            log_token_usage(final_state["messages"][-1], selected_mode)
+            
             print(f"🤖 Trả lời:\n{answer}")
         except Exception as e:
             print(f"⚠️ Lỗi: {e}")
