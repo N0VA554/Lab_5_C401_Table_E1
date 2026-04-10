@@ -74,5 +74,10 @@
 **Kill criteria:** - Chi phí vận hành API cao hơn chi phí duy trì nhân sự tổng đài cũ trong 2 tháng liên tục.
 - Tỷ lệ ấn nút "Chuyển gặp người thật" (Fallback) lớn hơn 40%.
 - Xảy ra sự cố nghiêm trọng về việc cung cấp sai hoặc lộ điểm số học viên.
+## 6. Mini AI spec
+Trợ lý Phụ huynh Teky là một giải pháp tự động hóa hoàn toàn (Automation) nhằm giải quyết dứt điểm "nỗi đau" chờ đợi lâu của phụ huynh khi muốn tra cứu tiến độ học tập của con. Thay vì mất 5-10 phút gọi hotline hoặc 1 ngày chờ email, AI đóng vai trò như một tư vấn viên 24/7, trích xuất dữ liệu và trực quan hóa kỹ năng 4C của trẻ thành biểu đồ dễ hiểu chỉ trong chưa đầy 30 giây.
 
+Về mặt chất lượng, hệ thống kiên quyết tối ưu hóa độ chính xác (Precision). Đối với dữ liệu giáo dục, tính minh bạch và chân thực là tối thượng; AI được thiết lập thà báo "không tìm thấy dữ liệu" còn hơn là bịa đặt điểm số hay nhận xét (Hallucination) gây phẫn nộ và đánh mất niềm tin của phụ huynh. Các rủi ro lớn nhất như quá tải API, nhầm lẫn học sinh trùng tên, và ảo giác LLM đều được kiểm soát bằng cơ chế xác thực thông tin phụ trợ (SĐT, lớp học) và các giới hạn kiểm soát chặt chẽ (hard constraints) ở mức hệ thống.
+
+Sản phẩm sở hữu một "bánh đà dữ liệu" (Data Flywheel) mạnh mẽ. Mọi tương tác của người dùng — từ việc bấm xem khóa học gợi ý, gửi phản hồi, cho đến những lần yêu cầu chuyển tiếp sang người thật (hotline fallback) — đều trở thành tín hiệu học tập (learning signal). Nhờ lượng dữ liệu domain-specific này, model có thể cải thiện mức độ chính xác từ 5-10% mỗi tháng, ngày càng nâng cao kỹ năng tư vấn khéo léo và mang lại tỷ lệ chuyển đổi cao hơn cho các chiến dịch của Teky.
 ---
